@@ -1,0 +1,5 @@
+(https://www.geeksforgeeks.org/maximum-consecutive-ones-or-zeros-in-a-binary-array/)
+https://practice.geeksforgeeks.org/problems/minimum-steps-to-get-desired-array5519/1
+Move all zeroes to end.
+https://leetcode.com/problems/combination-sum/
+https://www.geeksforgeeks.org/rank-elements-array/
