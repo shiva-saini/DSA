@@ -1,0 +1,21 @@
+array.splice(start, deleteCount, item1, item2, ...)
+
+
+
+const fruits = ['apple', 'banana', 'mango'];
+fruits.splice(3, 1, 'orange', 'grape'); // Inserts 'orange' and 'grape' at index 2
+console.log(fruits);
+
+
+
+
+
+1 Blocks and context scop
+2 String methods
+3 Destructuring
+4 Higher Order functions
+5 Assignments
+
+
+
+
